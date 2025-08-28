@@ -75,46 +75,6 @@ __tests__/
 └── DetailPage.test.js      # User detail page tests 
 
 
-### Test Coverage
-- **Authentication Flow**: Login, logout, registration
-- **Form Validation**: Phone number, email validation
-- **API Integration**: Mocked API calls and error handling
-- **User Interactions**: Search, navigation, clicks
-- **Protected Routes**: Access control testing
-
-## 📱 Usage
-
-### Demo Accounts
-Use these pre-configured accounts for testing:
-
-| Country | Phone Number | Description |
-|---------|-------------|-------------|
-| 🇰🇪 Kenya | `+254712345678` | Original demo account |
-| 🇺🇸 USA | `+1234567890` | US demo account |
-| 🇬🇧 UK | `+4412345678901` | UK demo account |
-| 🇮🇳 India | `+911234567890` | India demo account |
-
-### User Flow
-1. **Registration**: Create account with name, email, and phone number
-2. **Login**: Enter phone number with country code
-3. **Browse Users**: Search and filter user directory
-4. **View Details**: Click any user to see detailed profile and posts
-5. **Logout**: Secure session termination
-
-### Supported Countries
-The application supports phone numbers from 20+ countries:
-- North America: US (+1), Canada (+1)
-- Europe: UK (+44), Germany (+49), France (+33), Italy (+39), Spain (+34)
-- Asia: India (+91), China (+86), Japan (+81), Philippines (+63)
-- Middle East: UAE (+971), Saudi Arabia (+966)
-- Africa: Kenya (+254), Nigeria (+234), South Africa (+27), Egypt (+20)
-- Others: Russia (+7), Australia (+61), Brazil (+55), Mexico (+52)
-
-
-
-
-
-
 ## 🔒 Security Considerations
 
 ### Authentication
@@ -141,15 +101,6 @@ The application supports phone numbers from 20+ countries:
 
 vercel --prod
 ```
-
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ### Development Guidelines
 - Follow React best practices
@@ -185,8 +136,8 @@ vercel --prod
 ## 👨‍💻 Author
 
 **kareem khamis**
-- GitHub: [@ykarim-99-99](https://github.com/karim-99-99)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kareem-khamis-software-engineering6/)
+- GitHub: [@karim-99-99](https://github.com/karim-99-99)
+- LinkedIn: [Karim Khamis](https://www.linkedin.com/in/kareem-khamis-software-engineering6/)
 - Email: kareemkhamis2030@gmail.com.com
 
 
